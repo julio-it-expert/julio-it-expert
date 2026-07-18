@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Julio Rivero 👋
 
-<!--
-**julio-it-expert/julio-it-expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems Engineer & IT Consultant
 
-Here are some ideas to get you started:
+Systems Engineer with over a decade of experience in software development, process automation, and systems architecture. I specialize in designing custom backend structures, building robust automation scripts, and engineering high-throughput data extraction pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Expertise & Tech Stack
+
+*   **Automation & Data:** Python, BeautifulSoup4, Pandas Data Pipelines, Analytics.
+*   **Backend & Platforms:** PHP (Custom Logic), SQL (MySQL / PostgreSQL Architecture), REST APIs.
+*   **Methodologies & Tools:** Agile/Scrum, Version Control (Git/GitHub), QA Frameworks, Technical Documentation.
+
+---
+
+### 🚀 Featured Architectural Projects
+
+*   **[Real Estate Data Pipeline](https://github.com/julio-it-expert/real-estate-scraper):** A modular web scraping system with dynamic agent rotation and enterprise-grade file export pipelines.
+*   **Regimenes Core Application:** Custom web platform featuring relational database optimization and communication bypass workflows.
